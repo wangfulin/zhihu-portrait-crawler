@@ -1,0 +1,32 @@
+{
+  "name": "zhihu-portrait-crawler",
+  "version": "0.0.6",
+  "description": "To crawl zhihu user portrait",
+  "main": "zhihu-portrait-crawler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangfulin/zhihu-portrait-crawler.git"
+  },
+  "keywords": [
+    "zhihu",
+    "crawler",
+    "portrait"
+  ],
+  "author": "wangfulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangfulin/zhihu-portrait-crawler/issues"
+  },
+  "homepage": "https://github.com/wangfulin/zhihu-portrait-crawler#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.67.0"
+  }
+}
